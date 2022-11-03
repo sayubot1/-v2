@@ -1,0 +1,11 @@
+FROM 𝓢𝓐𝓨𝓤 botwa/sanuwa-official:md-beta
+
+RUN git clone https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD /root/𝓢𝓐𝓨𝓤 bot
+WORKDIR /root/𝓢𝓐𝓨𝓤 bot/
+ENV TZ=Europe/Istanbul
+RUN yarn add supervisor -g
+RUN yarn install --no-audit
+
+CMD ["node", "bot.js"]
+
+
