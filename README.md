@@ -1,34 +1,83 @@
-# 𝓢𝓐𝓨𝓤 BOT-MD
-This project is still being tested
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
- <p align="center">
-<a href="https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
-<a href="https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD"><img title="Size" src="https://img.shields.io/github/repo-size/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/sanuwaofficial/𝓢𝓐𝓨𝓤 BOT-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-    
-  ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+<a href="https://www.youtube.com/channel/UChAp2T6q9SlFIfhrFDZrzwA"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=[https://youtu.be/ww4z2m3uORU](https://www.youtube.com/channel/UChAp2T6q9SlFIfhrFDZrzwA)" /><br>
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/𝓢𝓐𝓨𝓤 BOT-MDV2?v=1)
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2F𝓢𝓐𝓨𝓤 BOT-MD)
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
----------------------------------   
-
- ###  Developer :- Sanuwa-official 
-
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
+<a href="https://www.youtube.com/channel/UChAp2T6q9SlFIfhrFDZrzwA"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=[https://youtu.be/ww4z2m3uORU](https://www.youtube.com/channel/UChAp2T6q9SlFIfhrFDZrzwA)" /><br>
+# SaYu BoT-MD
+ WhatsApp with so Many features using multi device  [RAVISHKA](https://www.instagram.com/ravishka__sathsara/)
  
-  
+ ## ```FoLLoW Me```
+
+- [`INSTAGRAM`]([https://www.paypal.me/zimbotinc](https://www.instagram.com/ravishka__sathsara/))
+ </a>
+</p>
+<p align="center">
+<img src="https://telegra.ph/file/73a5cd6ace5384be642c1.jpg" alt="animated"  />
+</p>
+
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KPiKOqO8XXJ3VHgoFfQcKH) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
+> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
+> 
+## DONT FORGET TO GIVE A STAR🌟
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayubot1/-SaYu-MD-)
+
+## BUILD PACKS
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+```
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RavishkaSathsar/SaYu-MD-1)
+<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+
+ ##  > THIS BOT CODED BY DRIPS MEMES SaYu BoT-MD 
+
+
+## >  FOLLOW STEPS BELOW FOR INSTALLATION
+
+## >  THIS BOT IT USE MULTI DEVICE BAILEYS
+
+
+``` 
+apt install nodejs
+
+apt install git
+
+apt update && apt upgrade
+
+git clone https://github.com/sayubot1/-v2
+ 
+cd SaYu BoT-MD-v2
+
+npm install
+
+npm update
+ 
+rm -r session.json
+
+npm start
+
+echo scan the qr code and enjoy bot
+
+```
+
+
+## JOIN MY WHATSAPP GROUP
+
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KPiKOqO8XXJ3VHgoFfQcKH)
+
+## MY PERSONAL CHAT
+
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94773721711)
+
+
+# > THANKS FOR CHOOSING SaYu BoT-MD WE APPRECIATE YOU FOR YOUR SUPPORT
+
+# > THANKS FOR VIHANGA VT
  
